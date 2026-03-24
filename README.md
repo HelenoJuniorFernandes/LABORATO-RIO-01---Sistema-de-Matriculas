@@ -1,7 +1,7 @@
 # Sistema de Matrículas - Laboratório de Desenvolvimento de Software
 
 ## Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](diagrama_casos_uso.png)
+![Diagrama de Casos de Uso](diagrama_casos_uso.png.drawio.png)
 
 ---
 
